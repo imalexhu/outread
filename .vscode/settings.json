@@ -3,6 +3,9 @@
         "lemmatize",
         "Lemmatizer",
         "Lemmatizing",
-        "stopwords"
+        "stopwords",
+        "vectoried",
+        "Vectorise",
+        "Vectorizer"
     ]
 }
