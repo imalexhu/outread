@@ -1,0 +1,13 @@
+Number of Clusters: 3
+Silhouette Score: 0.32891279458999634
+Davies-Bouldin Index: 0.8429470582316582
+
+Number of Papers in Each Cluster:
+Cluster 1: 39 papers
+Cluster 2: 37 papers
+Cluster 3: 2 papers
+
+Key Terms for Each Cluster:
+Cluster 2: energy, power, system, e, c, j, h, cost, ammonia, hydrogen, solar, fig, wind, et, al, storage, model, battery, electricity, capacity
+Cluster 3: energy, al, et, system, http, org, j, doi, building, storage, heating, air, gas, renewable, heat, power, compressed, saving, emission, solar
+Cluster 1: energy, j, hydrogen, system, h, c, power, production, cell, b, et, al, solar, x, l, technology, water, renewable, green, p

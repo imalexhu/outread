@@ -4,6 +4,7 @@
         "Lemmatizer",
         "Lemmatizing",
         "stopwords",
+        "tfidf",
         "vectoried",
         "Vectorise",
         "Vectorizer"

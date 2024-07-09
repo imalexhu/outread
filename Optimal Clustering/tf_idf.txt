@@ -1,0 +1,7 @@
+Stemming :
+Silhouette Score: 0.0661001461352737
+Davies-Bouldin Index: 2.6219221249284534
+
+Lemmatization :
+Silhouette Score: 0.0659777366915247
+Davies-Bouldin Index: 2.644557602326634

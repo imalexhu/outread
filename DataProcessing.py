@@ -14,6 +14,7 @@ class DataProcessing :
         nltk.download('wordnet', quiet=True)
         self.folder_path = folder_path
         self.config = config
+        self.processed_results = self.process_texts()
     
     def get_cache_path(self,pdf_file_name : str) -> str:
         file_path = ""
